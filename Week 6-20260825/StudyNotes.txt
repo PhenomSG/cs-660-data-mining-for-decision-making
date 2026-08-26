@@ -1,0 +1,10 @@
+Dear Students,
+
+The material for week 7 has now been posted on the Moodle here: https://students.iitmandi.ac.in/moodle/mod/folder/view.php?id=20767
+
+This week we will studying a non-supervised technique called clustering. For this week, please refer to the lecture slides as well as readings Ch10_1.pdf and Ch10_2.pdf. Ideally, I would recommend that you open the slides as well as the readings in Ch10_1.pdf and Ch10_2.pdf. What you do not understand from the slide, you can refer to from the Ch10_1.pdf and Ch10_2.pdf readings (the lecture slides are made from these readings). We have also put a WEKA tutorial for clustering. You may refer to it while trying Hierarchical and K-means clustering on data.
+
+Furthermore, assignment 5 on clustering has been posted. It is meant to give you practice with clustering material. If you have any questions, please either use WhatsApp to inquire (if you do not have access to WhatsApp, then you can write to us here).
+
+Best,
+Varun
