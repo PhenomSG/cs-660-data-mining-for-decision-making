@@ -3,5 +3,4 @@
 # Generated project files
 project/.venv/
 project/data/
-project/outputs/
 project/__pycache__/
